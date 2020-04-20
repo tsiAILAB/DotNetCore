@@ -1,0 +1,9 @@
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Core\bin\Debug\netstandard2.0\TSIApiWebApp.Core.deps.json
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Core\bin\Debug\netstandard2.0\TSIApiWebApp.Core.dll
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Core\bin\Debug\netstandard2.0\TSIApiWebApp.Core.pdb
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Core\obj\Debug\netstandard2.0\TSIApiWebApp.Core.csproj.CoreCompileInputs.cache
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Core\obj\Debug\netstandard2.0\TSIApiWebApp.Core.AssemblyInfoInputs.cache
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Core\obj\Debug\netstandard2.0\TSIApiWebApp.Core.AssemblyInfo.cs
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Core\obj\Debug\netstandard2.0\TSIApiWebApp.Core.dll
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Core\obj\Debug\netstandard2.0\TSIApiWebApp.Core.pdb
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Core\obj\Debug\netstandard2.0\TSIApiWebApp.Core.csprojAssemblyReference.cache

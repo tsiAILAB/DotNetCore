@@ -1,0 +1,12 @@
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\bin\Release\netstandard2.0\TSIApiWebApp.Data.deps.json
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\bin\Release\netstandard2.0\TSIApiWebApp.Data.dll
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\bin\Release\netstandard2.0\TSIApiWebApp.Data.pdb
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\bin\Release\netstandard2.0\TSIApiWebApp.Core.dll
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\bin\Release\netstandard2.0\TSIApiWebApp.Core.pdb
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\obj\Release\netstandard2.0\TSIApiWebApp.Data.csprojAssemblyReference.cache
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\obj\Release\netstandard2.0\TSIApiWebApp.Data.csproj.CoreCompileInputs.cache
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\obj\Release\netstandard2.0\TSIApiWebApp.Data.AssemblyInfoInputs.cache
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\obj\Release\netstandard2.0\TSIApiWebApp.Data.AssemblyInfo.cs
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\obj\Release\netstandard2.0\TSIApiWebApp.Data.csproj.CopyComplete
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\obj\Release\netstandard2.0\TSIApiWebApp.Data.dll
+E:\Workspace\web\own\Asp.Net core\TSIApiWebApp\TSIApiWebApp.Data\obj\Release\netstandard2.0\TSIApiWebApp.Data.pdb
